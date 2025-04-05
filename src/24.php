@@ -1,0 +1,3 @@
+<?php
+// Example PHP code
+?>
